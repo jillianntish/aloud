@@ -1,1 +1,0 @@
-export default UPLOAD_PRESET = 'qna2tpvj';
